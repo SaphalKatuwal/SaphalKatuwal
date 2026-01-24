@@ -69,11 +69,8 @@ Building clean. Simple. Scalable.
 ---
 
 <p align="center">
-https://github.com/SaphalKatuwal
+📧saphalkatuwal1@gmail.com
 </p>
 <p align="center">
-saphalkatuwal1@gmail.com
-</p>
-<p align="center">
-https://letterboxd.com/Saphal_Katuwal/
+🎥https://letterboxd.com/Saphal_Katuwal/
 </p>
