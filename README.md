@@ -1,67 +1,79 @@
-# Saphal Katuwal
+<h1 align="center">Saphal Katuwal</h1>
+<p align="center">
+Web Developer · MERN Stack · Python
+</p>
 
-Full Stack Web Developer focused on the MERN Stack.
-
-I build web applications with practical architecture, clean structure, and scalable backend systems. My main focus is developing full-stack applications using MongoDB, Express.js, React, and Node.js, while strengthening my understanding of Python and machine learning concepts.
-
----
-
-## About
-
-- Focused on MERN Stack development  
-- Learning and building with Python  
-- Interested in AI-powered and data-driven systems  
-- Computer Science student  
-- Practicing data structures and backend system design  
+<p align="center">
+Building clean. Simple. Scalable.
+</p>
 
 ---
 
-## Tech Stack
+## Focus
 
-### Frontend
-- React.js  
-- JavaScript  
-- HTML5  
-- CSS3  
-
-### Backend
-- Node.js  
-- Express.js  
-
-### Database
-- MongoDB  
-
-### Programming
-- JavaScript  
-- Python  
-
-### Tools
-- Git    
-- VS Code  
+- Full-stack web apps  
+- MERN stack  
+- Python tools & scripts  
+- Clean UI  
+- Simple systems  
 
 ---
 
-## Current Focus
+## Stack
 
-- Building production-style full stack projects  
-- Improving backend logic and API design  
-- Writing cleaner and maintainable code  
-- Strengthening problem-solving skills  
+**Frontend**
+- React
+- Tailwind CSS
+- HTML · CSS
+
+**Backend**
+- Node.js
+- Express
+- MongoDB
+
+**Languages**
+- JavaScript
+- Python
+
+**Tools**
+- Git · GitHub
+- VS Code
+
+---
+
+## Now
+
+- Building projects  
+- Improving architecture  
+- Writing better APIs  
+- Keeping things simple  
 
 ---
 
-## GitHub Stats
+## Work
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaphalKatuwal&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaphalKatuwal&layout=compact)
+> Check pinned repositories below.
 
 ---
 
-## Contact
+## Stats
 
-GitHub: https://github.com/SaphalKatuwal
-Email: saphalkatuwal1@gmail.com
-Letterboxd: https://letterboxd.com/Saphal_Katuwal/
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SaphalKatuwal&show_icons=true&hide_title=true&hide_border=true&theme=transparent" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaphalKatuwal&layout=compact&hide_border=true&theme=transparent" />
+</p>
 
 ---
+
+<p align="center">
+https://github.com/SaphalKatuwal
+</p>
+<p align="center">
+saphalkatuwal1@gmail.com
+</p>
+<p align="center">
+https://letterboxd.com/Saphal_Katuwal/
+</p>
