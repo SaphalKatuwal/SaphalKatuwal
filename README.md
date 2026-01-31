@@ -41,21 +41,6 @@ Building clean. Simple. Scalable.
 
 ---
 
-## Now
-
-- Building projects  
-- Improving architecture  
-- Writing better APIs  
-- Keeping things simple  
-
----
-
-## Work
-
-> Check pinned repositories below.
-
----
-
 ## Stats
 
 <p align="center">
